@@ -9,3 +9,5 @@ cd ~/Spotify
 git clone git@github.com:borisnieuwenhuis/spotifiew.git
 
 open spotify and goto spotify:app:spotifiew
+
+spotify:app:spotifiew
