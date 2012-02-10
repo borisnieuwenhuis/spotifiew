@@ -6,6 +6,6 @@ check it out in <your home dir>/Spotify
 
 cd ~/Spotify
 
-git clone git@github.com:borisnieuwenhuis/spotyfiew.git
+git clone git@github.com:borisnieuwenhuis/spotifiew.git
 
 open spotify and goto spotify:app:spotifiew
