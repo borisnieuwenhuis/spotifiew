@@ -1,3 +1,11 @@
 spotify app that takes a search string and searches for this string in spotify and then plays a random song for that word.
 
 also images related to that word are showns.
+
+check it out in <your home dir>/Spotify
+
+cd ~/Spotify
+
+git clone git@github.com:borisnieuwenhuis/spotyfiew.git
+
+open spotify and goto spotify:app:spotifiew
