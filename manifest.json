@@ -1,0 +1,27 @@
+{
+    "BundleIdentifier": "musicquiz",
+	"BundleType": "Application",
+    "BundleVersion": "0.1",
+	"AcceptedLinkTypes":[
+		"album",
+		"artist",
+		"track",
+		"playlist",
+		"user"
+	],
+	"AppIcon": {
+		"18x18": "icon.png"
+	},
+	"AppName": {
+		"en": "Music Quiz"
+	},
+	"SupportedLanguages": [
+		"en"
+	],
+	"RequiredPermissions": [
+		"https://*",
+		"http://*",
+        "sp://songquiz"
+	],
+    "VendorIdentifier": "org.hyves"
+}
